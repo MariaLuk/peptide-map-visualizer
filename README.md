@@ -23,7 +23,7 @@ conditions (files) on top of the protein sequence, compare coverage, and inspect
 
 ---
 
-## 🚀 Installation
+## Installation
 
 ### 1. Clone the repository
 
@@ -67,7 +67,7 @@ Open it in your browser.
 
 ---
 
-## 📄 Input file format
+## Input file format
 
 Each CSV file must contain at least two numeric columns with peptide start and end positions
 (1-based, inclusive). Column names are auto-detected (e.g. `start`, `begin`, `from` — and Russian
@@ -87,7 +87,7 @@ An example file is available at `examples/example_peptides.csv`.
 
 ---
 
-## 🖱️ Usage
+##  Usage
 
 1. Paste or edit the protein sequence in the sidebar.
 2. (Optional) Adjust the number of amino acids per line.
@@ -105,7 +105,7 @@ An example file is available at `examples/example_peptides.csv`.
 
 
 
-## 🧪 Tech stack
+##  Tech stack
 
 - Python 3.9+
 - [Streamlit](https://streamlit.io/) — UI
