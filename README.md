@@ -4,7 +4,7 @@ Draw and compare peptide coverage maps on protein sequences — an interactive S
 
 An interactive [Streamlit](https://streamlit.io/) application for visualizing **peptide coverage maps** on a protein sequence.
 It is designed for proteomics / HDX-MS workflows where you need to display peptides from multiple experimental
-conditions (files) on top of the protein sequence, compare coverage, and inspect peptide length distributions.
+conditions (files) on the protein sequence, compare coverage, and inspect peptide length distributions.
 
 ---
 
