@@ -1,6 +1,6 @@
 # peptide-map-visualizer
 Draw and compare peptide coverage maps on protein sequences — an interactive Streamlit tool
-# 🧬 Peptide Coverage Map
+# 🔬 Peptide Coverage Map
 
 An interactive [Streamlit](https://streamlit.io/) application for visualizing **peptide coverage maps** on a protein sequence.
 It is designed for proteomics / HDX-MS workflows where you need to display peptides from multiple experimental
