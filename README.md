@@ -8,7 +8,7 @@ conditions (files) on top of the protein sequence, compare coverage, and inspect
 
 ---
 
-## ✨ Features
+##  Features
 
 - 📝 Input any protein sequence and choose the number of amino acids per line.
 - 📁 Upload multiple CSV files with peptide coordinates (`start`, `end`).
